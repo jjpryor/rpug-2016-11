@@ -62,7 +62,6 @@
 ## Take-aways
 + Lots of desirable talks to see but I feel it was too parallelized.
 + Sponsor Keynotes were in a large 2hr block in the morning and should have been spread out.
-+
 + Follow Rob Nelson's blog or his twitter account
   - He was voted Most Valuable Puppeteer 2016 at PuppetConf
   - He really does know his stuff regarding puppet code, and code testing via CI
